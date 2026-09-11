@@ -1,0 +1,58 @@
+---
+title: "Elgiva Abbey"
+image: "Elgiva.png"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/elgiva-abbey/"
+  - label: GitHub
+    url: "https://github.com/eabbey2"
+  - label: Email
+    url: "mailto:eabbey2@jh.edu"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Hi, I'm Elgiva! I'm a Ghana-trained physician and full-time MPH student at 
+the Johns Hopkins Bloomberg School of Public Health, after practicing 
+clinical medicine in Ghana for over three years.
+
+Medicine taught me to ask two questions: What does this patient need 
+today, and what needs to change so more people receive better care 
+tomorrow? That question led me into public health, and now shapes my 
+interest in building sustainable models of care for children with serious 
+illnesses in resource-limited settings.
+
+## Data, Statistics & This Course
+
+My experience so far leans much more toward clinical and public health 
+reasoning than programming. I'm still in the early chapters here. By the 
+end of this course, I hope to feel confident cleaning real-world datasets, 
+writing reproducible code, and turning numbers into insights that actually 
+improve care. Being less intimidated by error messages would be a nice 
+bonus too.
+
+## Five Fun Facts About Me
+
+1. I have a deep sense of wanderlust. I love discovering new places and 
+cultures.
+2. Off the clock, I'm probably under a blanket binge-reading romantic 
+comedies or sci-fi.
+3. I love stage plays. If I weren't a physician, I might be chasing a career as 
+the next Viola Davis.
+4. I've called both Ghana and Baltimore home, and each has shaped how I 
+see the world.
+5. One of my favorite thought-provoking images is Apollo 8's Earthrise — 
+more on that below.
+
+## Something I Find Inspiring: Apollo 8's Earthrise
+
+NASA's [Earthrise photograph](https://science.nasa.gov/resource/image-earthrise/), 
+taken during the Apollo 8 mission in 1968, shows Earth rising over the 
+Moon's horizon. It is small, beautiful, and fragile.
+
+I first saw it in an environmental health lecture on entropy and 
+irreversible planetary damage. It captures something I try to carry into 
+public health: our health is inseparable from our environment, and 
+prevention matters most before harm becomes irreversible.
